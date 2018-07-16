@@ -1,0 +1,5 @@
+package java.Dao;
+
+public interface SupplierDao {
+
+}

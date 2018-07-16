@@ -1,0 +1,71 @@
+package java.DaoImpl;
+
+import java.Dao.SupplierDao;
+import java.JdbcConnection.DBConnection;
+import java.Model.Supplier;
+import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
+
+public class SupplierDaoImpl implements SupplierDao{
+
+	List<Supplier> list = new ArrayList<>();
+	SupplierDaoImpl(){
+		try{
+			Statement stmt = DBConnection.getConnection().createStatement();
+			ResultSet rs = stmt.executeQuery("select * from supplier");
+			while(rs.next()){
+				int pid = rs.getInt("pid");
+				String pname = rs.getString("pname");
+				String color = rs.getString("color");
+				Supplier s = new Supplier(pid,pname,color);
+				list.add(s);
+			}
+		}
+		catch(Exception e){
+			e.printStackTrace();
+			
+		}
+	}
+	
+	
+	
+	@Override
+	public Supplier getSupplier(int index) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Supplier> getAllSuppliers() {
+		// TODO Auto-generated method stub
+		return list;
+	}
+
+	@Override
+	public void addSupplier(Supplier s) {
+		// TODO Auto-generated method stub
+		list.add(s);
+		
+		try {
+			Statement statement = DBConnection.getConnection().createStatement();
+			ResultSet resultSet = statement.executeQuery("insert into supplier values("+s.getPid()+",'"+ s.getPname()+"','" + s.getColor()+"')");
+			
+			
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+	}
+
+	@Override
+	public void deleteSupplier(Supplier s) {
+		// TODO Auto-generated method stub
+		list.remove(s);
+	}
+	
+	
+
+}

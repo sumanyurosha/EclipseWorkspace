@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.JdbcConnection.DBConnection"/>
+<fullyQualifiedTypeName name="java.Dao.SupplierDao"/>
+<fullyQualifiedTypeName name="java.DaoImpl.SupplierDaoImpl"/>
+<fullyQualifiedTypeName name="java.Model.Supplier"/>
+<fullyQualifiedTypeName name="com.fil.java.Model.Supplier"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="org.hibernate.annotations.Entity"/>
+<fullyQualifiedTypeName name="com.fil.model.Supplier"/>
+<fullyQualifiedTypeName name="com.mysql.cj.Query"/>
+<fullyQualifiedTypeName name="com.fil.model.Part"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="com.fil.daoimpl.PartDaoImpl"/>
+<fullyQualifiedTypeName name="com.fil.daoimpl.SupplierDaoImpl"/>
+<fullyQualifiedTypeName name="com.fil.dao.SupplierDao"/>
+<fullyQualifiedTypeName name="com.fil.dao.PartDao"/>
+<fullyQualifiedTypeName name="com.fil.main.SupplyDemo"/>
+<fullyQualifiedTypeName name="com.fil.model.Supply"/>
+<fullyQualifiedTypeName name="com.fil.entitymanager.EntityManagerConnection"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+<fullyQualifiedTypeName name="javax.persistence.Query"/>
+<fullyQualifiedTypeName name="com.fil.daoimpl.SupplyDaoImpl"/>
+<fullyQualifiedTypeName name="com.fil.dao.SupplyDao"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>

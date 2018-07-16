@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;java_project.jar&apos; to &apos;lib&apos;" description="Move &apos;java_project.jar&apos; to &apos;lib&apos;" destination="WebContent/WEB-INF/lib" element1="WebContent/java_project.jar" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1531469540879" updateReferences="true"/>
+</session>

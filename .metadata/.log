@@ -1,0 +1,1407 @@
+!SESSION 2018-07-06 09:29:01.245 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-06 09:31:33.237
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-06 09:31:33.248
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-06 09:31:33.474
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-06 09:31:33.476
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+!SESSION 2018-07-09 10:44:22.042 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-09 10:50:31.776
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-09 10:50:31.804
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-09 10:55:34.438
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-09 10:55:34.439
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+!SESSION 2018-07-09 15:34:04.848 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-07-09 15:34:12.156
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-09 16:11:53.932
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-09 16:11:53.939
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-09 16:12:17.751
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-09 16:12:17.751
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+!SESSION 2018-07-10 11:52:22.488 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-07-10 11:52:33.068
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+!SESSION 2018-07-12 08:40:10.433 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-07-12 08:40:17.417
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-12 10:48:41.397
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-12 10:48:41.406
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-12 10:50:28.110
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-12 10:50:28.115
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-07-12 15:03:11.528
+!MESSAGE Internal Error
+!STACK 1
+org.eclipse.core.runtime.CoreException: Resource 'Java Training/src/com/fil/java/DaoImpl/SupplierDaoImpl.java' is out of sync with file system.
+	at org.eclipse.jdt.ui.text.java.correction.ChangeCorrectionProposal.performChange(ChangeCorrectionProposal.java:181)
+	at org.eclipse.jdt.internal.ui.text.correction.proposals.LinkedCorrectionProposal.performChange(LinkedCorrectionProposal.java:148)
+	at org.eclipse.jdt.ui.text.java.correction.CUCorrectionProposal.apply(CUCorrectionProposal.java:181)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl.apply(AbstractAnnotationHover.java:548)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl.access$2(AbstractAnnotationHover.java:525)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl$5.widgetSelected(AbstractAnnotationHover.java:519)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5227)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1340)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1366)
+	at org.eclipse.swt.widgets.Widget.sendSelectionEvent(Widget.java:1480)
+	at org.eclipse.swt.widgets.Link.gtk_button_release_event(Link.java:384)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:1980)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:5827)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5498)
+	at org.eclipse.swt.internal.gtk.OS._gtk_main_do_event(Native Method)
+	at org.eclipse.swt.internal.gtk.OS.gtk_main_do_event(OS.java:9545)
+	at org.eclipse.swt.widgets.Display.eventProc(Display.java:1275)
+	at org.eclipse.swt.internal.gtk.OS._g_main_context_iteration(Native Method)
+	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(OS.java:2495)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4149)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1492)
+!SUBENTRY 1 org.eclipse.jdt.ui 4 4 2018-07-12 15:03:11.542
+!MESSAGE Resource 'Java Training/src/com/fil/java/DaoImpl/SupplierDaoImpl.java' is out of sync with file system.
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2018-07-12 15:03:45.019
+!MESSAGE Internal Error
+!STACK 1
+org.eclipse.core.runtime.CoreException: Resource 'Java Training/src/com/fil/java/DaoImpl/SupplierDaoImpl.java' is out of sync with file system.
+	at org.eclipse.jdt.ui.text.java.correction.ChangeCorrectionProposal.performChange(ChangeCorrectionProposal.java:181)
+	at org.eclipse.jdt.internal.ui.text.correction.proposals.LinkedCorrectionProposal.performChange(LinkedCorrectionProposal.java:148)
+	at org.eclipse.jdt.ui.text.java.correction.CUCorrectionProposal.apply(CUCorrectionProposal.java:181)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl.apply(AbstractAnnotationHover.java:548)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl.access$2(AbstractAnnotationHover.java:525)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl$5.widgetSelected(AbstractAnnotationHover.java:519)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5227)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1340)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1366)
+	at org.eclipse.swt.widgets.Widget.sendSelectionEvent(Widget.java:1480)
+	at org.eclipse.swt.widgets.Link.gtk_button_release_event(Link.java:384)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:1980)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:5827)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5498)
+	at org.eclipse.swt.internal.gtk.OS._gtk_main_do_event(Native Method)
+	at org.eclipse.swt.internal.gtk.OS.gtk_main_do_event(OS.java:9545)
+	at org.eclipse.swt.widgets.Display.eventProc(Display.java:1275)
+	at org.eclipse.swt.internal.gtk.OS._g_main_context_iteration(Native Method)
+	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(OS.java:2495)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4149)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1492)
+!SUBENTRY 1 org.eclipse.jdt.ui 4 4 2018-07-12 15:03:45.020
+!MESSAGE Resource 'Java Training/src/com/fil/java/DaoImpl/SupplierDaoImpl.java' is out of sync with file system.
+!SESSION 2018-07-12 15:08:08.427 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-12 16:10:22.403
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-12 16:10:22.412
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-12 16:20:04.937
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-12 16:20:04.942
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+!SESSION 2018-07-13 11:01:52.692 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-07-13 11:09:21.292
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-13 11:13:07.461
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-13 11:13:07.462
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-13 11:35:27.489
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-13 11:35:27.490
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-13 11:36:00.946
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-13 11:36:00.947
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-13 12:16:06.673
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-13 12:16:06.673
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+!SESSION 2018-07-13 16:20:07.185 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-07-13 16:20:14.287
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2018-07-13 16:20:49.070
+!MESSAGE A workspace crash was detected. The previous session did not exit normally. Not using saved taglib indexes.
+!SESSION 2018-07-16 11:14:39.829 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-16 12:06:49.626
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-16 12:06:49.655
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-16 12:27:31.205
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-16 12:27:31.207
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-16 12:40:54.396
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-16 12:40:54.397
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:46.037
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:52.908
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:53.119
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:53.810
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:54.089
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:54.457
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:54.614
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:54.813
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:54.979
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:55.195
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:55.403
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:55.609
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:55.796
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:55.964
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:56.377
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:56.676
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:56.859
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:57.024
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:57.181
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:57.382
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:57.611
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:57.853
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 14:59:58.085
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 15:00:00.569
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 15:00:01.220
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 15:00:01.787
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 15:00:02.493
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 15:00:03.475
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 15:00:03.871
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 15:00:04.259
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 15:00:04.429
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 15:00:04.609
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 15:00:04.775
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 15:00:04.999
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jpt.jpa.core 4 0 2018-07-16 15:00:05.264
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jpt.jpa.core.internal.jpa2.context.persistence.connection.GenericConnection2_0.propertyValueChanged(GenericConnection2_0.java:53)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.propertyValueChanged(AbstractPersistenceUnit.java:1150)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.setValue_(GenericPersistenceUnitProperty.java:93)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceUnitProperty.synchronizeWithResourceModel(GenericPersistenceUnitProperty.java:54)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.sync(AbstractJpaContextModel.java:510)
+	at org.eclipse.jpt.jpa.core.internal.context.AbstractJpaContextModel$ContextContainer.synchronizeWithResourceModel(AbstractJpaContextModel.java:453)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.syncProperties(AbstractPersistenceUnit.java:1190)
+	at org.eclipse.jpt.jpa.core.internal.context.persistence.AbstractPersistenceUnit.synchronizeWithResourceModel(AbstractPersistenceUnit.java:271)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.syncPersistenceUnits(GenericPersistence.java:167)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistence.synchronizeWithResourceModel(GenericPersistence.java:69)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:134)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.syncPersistence(GenericPersistenceXml.java:85)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.persistence.GenericPersistenceXml.synchronizeWithResourceModel(GenericPersistenceXml.java:81)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:123)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.syncPersistenceXml(GenericContextRoot.java:100)
+	at org.eclipse.jpt.jpa.core.internal.jpa1.context.GenericContextRoot.synchronizeWithResourceModel(GenericContextRoot.java:72)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject.synchronizeContextModel(AbstractJpaProject.java:1920)
+	at org.eclipse.jpt.jpa.core.internal.AbstractJpaProject$SynchronizeContextModelJobCommand.execute(AbstractJpaProject.java:1905)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.executeCommand(RepeatingJobCommandWrapper.java:211)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper.execute_(RepeatingJobCommandWrapper.java:198)
+	at org.eclipse.jpt.common.core.internal.utility.command.RepeatingJobCommandWrapper$StartJobCommand.execute(RepeatingJobCommandWrapper.java:172)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager.execute_(InternalJpaProjectManager.java:1202)
+	at org.eclipse.jpt.jpa.core.internal.InternalJpaProjectManager$ClientJobCommandWrapper.execute(InternalJpaProjectManager.java:1182)
+	at org.eclipse.jpt.common.core.internal.utility.command.JobCommandJob.run(JobCommandJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.ui.navigator 4 0 2018-07-16 16:45:48.300
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "com.fil.daoimpl [in src [in SupplierORM]]
+  SupplierDaoImpl.java
+    package com.fil.daoimpl
+    import java.util.List
+    import javax.persistence.EntityManager
+    import javax.persistence.Query
+    import com.fil.dao.SupplierDao
+    import com.fil.entitymanager.EntityManagerConnection
+    import com.fil.model.Supplier
+    class SupplierDaoImpl
+      EntityManager em
+      SupplierDaoImpl()
+      void addSupplier(Supplier)
+      Supplier getSupplier(int)
+      List<Supplier> getAllSupplier()
+      void deleteSupplier(Supplier)
+      void closeManager()
+  PartDaoImpl.java
+    package com.fil.daoimpl
+    import java.util.List
+    import javax.persistence.EntityManager
+    import javax.persistence.Query
+    import com.fil.dao.PartDao
+    import com.fil.entitymanager.EntityManagerConnection
+    import com.fil.model.Part
+    class PartDaoImpl
+      EntityManager em
+      PartDaoImpl()
+      void addPart(Part)
+      void deletePart(Part)
+      List<Part> getAllParts()
+      Part getpart(int)
+      void closeManager()
+  SupplyDaoImpl.java (not open)".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2018-07-16 16:45:48.307
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "com.fil.daoimpl [in src [in SupplierORM]]
+  SupplierDaoImpl.java
+    package com.fil.daoimpl
+    import java.util.List
+    import javax.persistence.EntityManager
+    import javax.persistence.Query
+    import com.fil.dao.SupplierDao
+    import com.fil.entitymanager.EntityManagerConnection
+    import com.fil.model.Supplier
+    class SupplierDaoImpl
+      EntityManager em
+      SupplierDaoImpl()
+      void addSupplier(Supplier)
+      Supplier getSupplier(int)
+      List<Supplier> getAllSupplier()
+      void deleteSupplier(Supplier)
+      void closeManager()
+  PartDaoImpl.java
+    package com.fil.daoimpl
+    import java.util.List
+    import javax.persistence.EntityManager
+    import javax.persistence.Query
+    import com.fil.dao.PartDao
+    import com.fil.entitymanager.EntityManagerConnection
+    import com.fil.model.Part
+    class PartDaoImpl
+      EntityManager em
+      PartDaoImpl()
+      void addPart(Part)
+      void deletePart(Part)
+      List<Part> getAllParts()
+      Part getpart(int)
+      void closeManager()
+  SupplyDaoImpl.java (not open)".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.

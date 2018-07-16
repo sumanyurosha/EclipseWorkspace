@@ -1,0 +1,33 @@
+package com.fil.java.jdbc;
+
+import com.fil.java.Dao.SupplierDao;
+import com.fil.java.DaoImpl.SupplierDaoImpl;
+import com.fil.java.Model.Supplier;
+import java.util.List;
+
+
+
+public class DaoDemo {
+
+	public static void main(String[] args){
+		
+		SupplierDao dao = new SupplierDaoImpl();
+		List<Supplier> list = dao.getAllSuppliers();
+		for(Supplier s : list){
+			System.out.println(s);
+		}
+		Supplier obj = new Supplier(10,"Hammer","Black");
+		dao.addSupplier(obj);
+		list = dao.getAllSuppliers();
+		for(Supplier s : list){
+			System.out.println(s);
+		}
+		dao.deleteSupplier(obj);
+		list = dao.getAllSuppliers();
+		for(Supplier s : list){
+			System.out.println(s);
+		}
+		
+	}
+
+}

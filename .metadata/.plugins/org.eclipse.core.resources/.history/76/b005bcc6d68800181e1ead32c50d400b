@@ -1,0 +1,34 @@
+package com.fil.daoimpl;
+
+import java.util.List;
+
+import com.fil.dao.SupplierDao;
+import com.fil.model.Supplier;
+
+public class SupplierDaoImpl implements SupplierDao{
+
+	@Override
+	public void addSupplier(Supplier s) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Supplier getSupplier(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Supplier> getAllSupplier() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteSupplier(Supplier s) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

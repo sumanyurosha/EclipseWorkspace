@@ -1,0 +1,45 @@
+package java.DaoImpl;
+
+import java.Dao.SupplierDao;
+import java.JdbcConnection.DBConnection;
+import java.Model.Supplier;
+import java.sql.*;
+import java.util.ArrayList;
+import java.util.List;
+
+public class SupplierDaoImpl implements SupplierDao{
+
+	List<Supplier> list = new ArrayList<>();
+	Connection con = DBConnection.getConnection();
+	Statement stmt = con.createStatement();
+	
+	
+	@Override
+	public Supplier getSupplier(int index) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Supplier> getAllSuppliers() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void addSupplier(Supplier s) {
+		// TODO Auto-generated method stub
+		list.add(s);
+		
+		
+	}
+
+	@Override
+	public void deleteSupplier(Supplier s) {
+		// TODO Auto-generated method stub
+		list.remove(s);
+	}
+	
+	
+
+}
