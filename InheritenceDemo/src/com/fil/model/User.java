@@ -1,0 +1,36 @@
+package com.fil.model;
+
+import javax.persistence.*;
+
+@Entity
+@Inheritance(strategy=InheritanceType.SINGLE_TABLE)
+@DiscriminatorColumn(name="type",discriminatorType=DiscriminatorType.STRING)
+public abstract class User {
+	
+	@Column
+	private String name;
+	@Id
+	private int userId;
+	public User(){
+		
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public int getUserId() {
+		return userId;
+	}
+	public void setUserId(int userId) {
+		this.userId = userId;
+	}
+	public User(String name, int userId) {
+		super();
+		this.name = name;
+		this.userId = userId;
+	}
+	
+
+}

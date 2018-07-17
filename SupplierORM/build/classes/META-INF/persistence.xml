@@ -4,6 +4,9 @@
 	<class>com.fil.model.Supplier</class>
 	<class>com.fil.model.Part</class>
 	<class>com.fil.model.Supply</class>
+	<class>com.fil.model.Requirement</class>
+	<class>com.fil.model.Quotes</class>
+	
 	<properties>
 		<property name="javax.persistence.schema-generation.scripts.action" value="none"/>
 		<property name="hibernate.connection.driver_class" value = "com.mysql.cj.jdbc.Driver"/>

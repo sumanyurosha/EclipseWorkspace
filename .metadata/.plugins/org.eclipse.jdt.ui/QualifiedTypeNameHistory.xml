@@ -10,7 +10,6 @@
 <fullyQualifiedTypeName name="java.DaoImpl.SupplierDaoImpl"/>
 <fullyQualifiedTypeName name="java.Model.Supplier"/>
 <fullyQualifiedTypeName name="com.fil.java.Model.Supplier"/>
-<fullyQualifiedTypeName name="javax.persistence.Entity"/>
 <fullyQualifiedTypeName name="javax.persistence.Table"/>
 <fullyQualifiedTypeName name="org.hibernate.annotations.Entity"/>
 <fullyQualifiedTypeName name="com.fil.model.Supplier"/>
@@ -24,9 +23,16 @@
 <fullyQualifiedTypeName name="com.fil.main.SupplyDemo"/>
 <fullyQualifiedTypeName name="com.fil.model.Supply"/>
 <fullyQualifiedTypeName name="com.fil.entitymanager.EntityManagerConnection"/>
-<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
 <fullyQualifiedTypeName name="javax.persistence.Query"/>
 <fullyQualifiedTypeName name="com.fil.daoimpl.SupplyDaoImpl"/>
 <fullyQualifiedTypeName name="com.fil.dao.SupplyDao"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.persistence.InheritanceType"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.DiscriminatorType"/>
+<fullyQualifiedTypeName name="com.fil.model.Student"/>
+<fullyQualifiedTypeName name="com.fil.model.User"/>
+<fullyQualifiedTypeName name="javax.persistence.Persistence"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
 </qualifiedTypeNameHistroy>

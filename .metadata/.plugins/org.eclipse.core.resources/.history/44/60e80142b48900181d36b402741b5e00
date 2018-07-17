@@ -1,0 +1,63 @@
+package com.fil.model;
+
+import javax.persistence.*;
+
+@Entity
+public class Quotes {
+	
+	@Id
+	private int qid;
+	
+	@JoinColumn(name="reqid")
+	private Requirement reqid;
+	@JoinColumn(name="sid")
+	private Supplier sid;
+	@Column
+	private int qty;
+	
+	public Quotes(){
+		
+	}
+
+	public Quotes(int qid, Requirement reqid, Supplier sid, int qty) {
+		super();
+		this.qid = qid;
+		this.reqid = reqid;
+		this.sid = sid;
+		this.qty = qty;
+	}
+
+	public int getQid() {
+		return qid;
+	}
+
+	public void setQid(int qid) {
+		this.qid = qid;
+	}
+
+	public Requirement getReqid() {
+		return reqid;
+	}
+
+	public void setReqid(Requirement reqid) {
+		this.reqid = reqid;
+	}
+
+	public Supplier getSid() {
+		return sid;
+	}
+
+	public void setSid(Supplier sid) {
+		this.sid = sid;
+	}
+
+	public int getQty() {
+		return qty;
+	}
+
+	public void setQty(int qty) {
+		this.qty = qty;
+	}
+	
+
+}
