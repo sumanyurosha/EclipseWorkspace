@@ -1,0 +1,25 @@
+package com.fil.test;
+
+import com.fil.classes.ClassForTesting;
+
+import junit.framework.TestCase;
+
+public class SortTesting extends TestCase {
+
+	protected void setUp() throws Exception {
+		super.setUp();
+	}
+
+	protected void tearDown() throws Exception {
+		super.tearDown();
+	}
+
+	public void testSortArray() {
+		
+		ClassForTesting obj = new ClassForTesting();
+		obj.sortArray("qwerty");
+		assert(5<7);
+		assert(4>7);
+	}
+
+}

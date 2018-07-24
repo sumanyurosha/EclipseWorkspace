@@ -1,5 +1,0 @@
-package com.fil.dao;
-
-public interface PartDao {
-
-}

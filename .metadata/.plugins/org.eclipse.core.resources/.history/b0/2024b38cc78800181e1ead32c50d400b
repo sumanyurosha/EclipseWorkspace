@@ -1,9 +1,0 @@
-package com.fil.model;
-
-import javax.persistence.*;
-
-@Entity
-@Table(name="Supply")
-public class Supply {
-
-}

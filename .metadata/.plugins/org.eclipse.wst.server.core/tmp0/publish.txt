@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Jul 19 13:02:46 IST 2018
+org.eclipse.jst.j2ee.server\:/binary\:/home/gpw/.m2/repository/org/springframework/spring-web/4.3.18.RELEASE/spring-web-4.3.18.RELEASE.jar=WEB-INF/lib/spring-web-4.3.18.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:/home/gpw/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/7.0.47/tomcat-embed-core-7.0.47.jar=WEB-INF/lib/tomcat-embed-core-7.0.47.jar

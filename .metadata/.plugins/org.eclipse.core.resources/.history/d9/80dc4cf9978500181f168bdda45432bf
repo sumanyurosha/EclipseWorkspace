@@ -1,9 +1,0 @@
-package java.Dao;
-
-import java.util.function.Supplier;
-
-public class SupplyDao {
-	
-	public Supplier getSupplier();
-
-}

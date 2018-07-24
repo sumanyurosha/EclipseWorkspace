@@ -1,0 +1,29 @@
+package com.fil.topic;
+
+import java.util.Arrays;
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class TopicService {
+	
+	private List<Topic> topics = Arrays.asList(new Topic(101,"Java","Java Course description"),
+			new Topic(102,"Python","Python Course description"),
+			new Topic(103,"PHP","PHP Course description"),
+			new Topic(104,"JavaScript","JavaScript Course description"));
+	
+	public List<Topic> getAllTopics(){
+		
+		return topics;
+	}
+	
+	public void addTopic(){
+		
+	}
+	
+	public void deleteTopic(){
+		
+	}
+
+}

@@ -1,5 +1,0 @@
-package java.JdbcConnection;
-
-public class DBConnection {
-
-}

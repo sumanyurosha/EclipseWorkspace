@@ -1,0 +1,5 @@
+package com.fil.classes;
+
+public class OuterClass {
+
+}

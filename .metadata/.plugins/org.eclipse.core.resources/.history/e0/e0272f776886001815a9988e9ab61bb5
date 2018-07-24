@@ -1,8 +1,0 @@
-package com.fil.java.jdbc;
-
-public class Snippet {
-	public static void main(String[] args) {
-		LoginServlet
-	}
-}
-

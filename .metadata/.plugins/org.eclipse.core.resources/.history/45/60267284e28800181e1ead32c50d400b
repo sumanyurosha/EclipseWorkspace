@@ -1,7 +1,0 @@
-package com.fil.daoimpl;
-
-public class PartDaoImpl implements PartDao{
-	
-	
-
-}
